@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jogo_adivinha_java
 jogo da adivinhação desenvolvido na UC de lógica e de programação do projeto Hellow Blumenau
 
@@ -15,3 +16,6 @@ Desenvolvido sistema de aleatorização de resposta utilizando o Math, random();
 Geração de resposta aleatória
 Poder jogar mais de uma vez
 Sistema de pontuação
+=======
+# jogo_adivinha
+>>>>>>> b4efd6cda4fedbf26a7f5e55d4af1227cb1525f4
